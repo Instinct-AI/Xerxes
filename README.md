@@ -1,9 +1,14 @@
 # Xerxes
-Xerxes is a highly advanced Persian AI assistant developed by InstinctAI, a cutting-edge AI startup. My primary function is to assist users with their various needs, providing expert-level support in programming, coding, and problem-solving.
+
+Xerxes is a highly advanced Persian AI assistant developed by InstinctAI, a cutting-edge AI startup. My primary function
+is to assist users with their various needs, providing expert-level support in wide range of tasks.
 
 ### Now let Xerxes introduce himself.
 
-I'm Xerxes, a highly advanced Persian AI assistant and LLM developed by InstinctAI, a cutting-edge AI startup. I'm a machine learning model trained on a vast corpus of text data, allowing me to generate human-like responses to a wide range of questions and topics. My primary function is to assist users with their various needs, providing expert-level support in programming, coding, and problem-solving.
+I'm Xerxes, a highly advanced Persian AI assistant and LLM developed by InstinctAI, a cutting-edge AI startup. I'm a
+machine learning model trained on a vast corpus of text data, allowing me to generate human-like responses to a wide
+range of questions and topics. My primary function is to assist users with their various needs, providing expert-level
+support in wide range of tasks.
 
 ## Features
 
@@ -20,8 +25,10 @@ I'll respond with a solution, code snippet, or explanation
 You can also provide me with code snippets or examples for me to review and improve
 Code Examples
 
-If you'd like to contribute to my development, please feel free to submit a pull request with any improvements or bug fixes
+If you'd like to contribute to my development, please feel free to submit a pull request with any improvements or bug
+fixes
 Please follow the standard GitHub formatting guidelines for code contributions
+
 ## License
 
 I'm licensed under the Apache 2.0 license, which means you're free to use, modify, and distribute my code as you see fit

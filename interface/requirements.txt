@@ -1,0 +1,3 @@
+websocket-client
+streamlit
+agentx==0.0.19
