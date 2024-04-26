@@ -1,0 +1,13 @@
+[theme]
+base = "dark"
+primaryColor = "#00d7ff"
+backgroundColor = "#14191c"
+
+[server]
+port = 11555
+
+[browser]
+
+serverAddress = "localhost"
+gatherUsageStats = true
+serverPort = 11555
