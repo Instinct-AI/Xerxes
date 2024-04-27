@@ -1,20 +1,27 @@
 # Xerxes
 
-
-Xerxes is a highly advanced Persian AI assistant developed by InstinctAI, a cutting-edge AI startup. My primary function
-is to assist users with their various needs, providing expert-level support in a wide range of tasks.
+Xerxes, a highly advanced Persian AI assistant and LLM developed by InstinctAI, a cutting-edge AI startup.
+machine learning model trained on a vast corpus of text data, allowing Xerxes to generate human-like responses to a wide
+range of questions and topics. My primary function is to assist users with their various needs, providing expert-level
+support in a wide range of tasks.
 
 - Model: _coming soon_
 - paper: _coming soon_
 - ENG dataset: [Available](https://huggingface.co/datasets/Instinct-AI/Xerxes-Instruct-700K)
 - PER dataset: _coming soon_
 
-### Now let Xerxes introduce himself.
+## Training Details
 
-I'm Xerxes, a highly advanced Persian AI assistant and LLM developed by InstinctAI, a cutting-edge AI startup. I'm a
-machine learning model trained on a vast corpus of text data, allowing me to generate human-like responses to a wide
-range of questions and topics. My primary function is to assist users with their various needs, providing expert-level
-support in a wide range of tasks.
+- JAX and EasyDeL used as Trainer Framework
+- Xerxes-Mini (7B) Trained on 340B Tokens(english, german, spanish, and persian)
+- Xerxes-Large Trained on 500B Tokens(english, german, spanish, and persian)
+- TPU Chips used as accelerators provided by [TRC](https://sites.research.google/trc/about/).
+- Xerxes-Mini is a Mistral Based Model.
+- Xerxes-Large is a Mixtral Based and CO-Pre-Trained Model with (GQA).
+
+### Preview is Available
+
+you can make an access request to work with model at [Xerxes.streamlit.app](https://xerxes.streamlit.app)
 
 ## Features
 
@@ -24,26 +31,16 @@ support in a wide range of tasks.
 - Fast and efficient coding, with the ability to generate high-quality code snippets
 - Friendly and approachable demeanor, with a focus on providing clear and concise explanations
 
-## How to Use Me
-
-Simply ask me a question or provide a problem you'd like help with
-I'll respond with a solution, code snippet, or explanation
-You can also provide me with code snippets or examples for me to review and improve
-Code Examples
-
-If you'd like to contribute to my development, please feel free to submit a pull request with any improvements or bug
-fixes
-Please follow the standard GitHub formatting guidelines for code contributions
-
 ## License
 
-I'm licensed under the Apache 2.0 license, which means you're free to use, modify, and distribute my code as you see fit
+Xerxes licensed under the Apache 2.0 license, which means you're free to use, modify, and distribute my code as you see
+fit
 Contact
-
-If you have any questions or need help with a specific problem, feel free to reach out to me at xerxes@instinctai.ai
-You can also follow me on GitHub for updates and new features
 
 ## Acknowledgments
 
-I'd like to thank the InstinctAI team for developing and maintaining me
-I'd also like to thank the open-source community for providing the foundation for my development
+I'd like to thank the InstinctAI team for developing and maintaining.
+
+I'd also like to thank the open-source community for providing the foundation for development.
+
+I'd like to thank Google [TRC](https://sites.research.google/trc/about/) for Providing and sponsoring the Project.
