@@ -1,2 +1,2 @@
-agentx==0.0.20
+agentx==0.0.22
 streamlit
