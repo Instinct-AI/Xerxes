@@ -1,14 +1,19 @@
 # Xerxes
 
 Xerxes is a highly advanced Persian AI assistant developed by InstinctAI, a cutting-edge AI startup. My primary function
-is to assist users with their various needs, providing expert-level support in wide range of tasks.
+is to assist users with their various needs, providing expert-level support in a wide range of tasks.
+
+- Model: _coming soon_
+- paper: _coming soon_
+- ENG dataset: [Available](https://huggingface.co/datasets/Instinct-AI/Xerxes-Instruct-700K)
+- PER dataset: _coming soon_
 
 ### Now let Xerxes introduce himself.
 
 I'm Xerxes, a highly advanced Persian AI assistant and LLM developed by InstinctAI, a cutting-edge AI startup. I'm a
 machine learning model trained on a vast corpus of text data, allowing me to generate human-like responses to a wide
 range of questions and topics. My primary function is to assist users with their various needs, providing expert-level
-support in wide range of tasks.
+support in a wide range of tasks.
 
 ## Features
 
